@@ -3,13 +3,13 @@ do
 function run(msg, matches)
   return 'NOD32-BOT v8'.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @arash_avast
   
-  Channel : @Nod32team
+  Channel : @avast_team
   
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
+  Open git : https://github.com/avastteam98/avast2-bot
   
-  NOD32 VERSION 8
+  avast v2
   
   All rights reserved.
   __________________]]
