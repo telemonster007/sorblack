@@ -248,10 +248,10 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/avastteam98/avast2-bot
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @avast_team
+sodu : @arash_avast
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -316,11 +316,11 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @Nod32team
+ch: @avast_team
 
 ]],
     help_text = [[
-NOD32 Commands list :
+avast2 Commands list :
  
 1-banhammer list ^
  
@@ -517,7 +517,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @avast_team
 
 G00D LUCK ^_^
 ]]
